@@ -5,3 +5,4 @@ authors = ["k-yamamoto <k.yamamoto@fenrir.co.jp>"]
 edition = "2018"
 
 [dependencies]
+termion = "*"
